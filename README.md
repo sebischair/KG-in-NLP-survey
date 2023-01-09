@@ -1,6 +1,6 @@
 ## A Decade of Knowledge Graphs in Natural Language Processing: A Survey
 
-This repository contains the annotated collection of 507 papers included in the study: "A Decade of Knowledge Graphs in Natural Language Processing: A Survey", published in AACL-IJCNLP 2022. The paper is published on ACL Anthology: https://aclanthology.org/2022.aacl-main.46. The full dataset is available as a CSV file in this repository.
+This repository contains the annotated collection of 507 papers included in the study: "A Decade of Knowledge Graphs in Natural Language Processing: A Survey", published in AACL-IJCNLP 2022. The paper is published in the ACL Anthology: https://aclanthology.org/2022.aacl-main.46. The full dataset is available as a CSV file in this repository.
 
 ### Preview of the 507 included papers
 
